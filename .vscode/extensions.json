@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"kevinrose.vsc-python-indent",
+		"njpwerner.autodocstring",
+		"donjayamanne.python-environment-manager",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers"
+	]
+}
